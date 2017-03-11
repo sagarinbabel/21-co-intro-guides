@@ -50,8 +50,8 @@ La instalación es simple. Simplemente escriba esto en la línea de comandos:
 
 Siéntase libre de previsualizar el script antes de la instalación. Tenga en cuenta que el uso de https es obligatorio aquí. Una vez que haya instalado el script, visite la página de registro para crear su cuenta.
 
-***21 inicio de sesión: Inicie sesión en su cuenta***
----
+**21 inicio de sesión: Inicie sesión en su cuenta**
+----
 
 Una vez que haya instalado 21 y configurado su cuenta 21, puede iniciar sesión en su cuenta en la línea de comandos de la siguiente manera:
 
@@ -83,10 +83,10 @@ Como se muestra, primero se le pedirá que cree una cartera Bitcoin. Siga las in
 
 A continuación, se le pedirá que introduzca el nombre de usuario 21 que acaba de crear junto con su contraseña. Antes de proceder, recomendamos que su contraseña del sistema sea segura ejecutando `passwd` si aún no lo ha hecho (su contraseña del sistema es distinta de su contraseña).
 
-***21 market: Únase a un mercado privado virtual***
+**21 market: Únase a un mercado privado virtual**
 ----------------
 
-Nota: esta sección sólo se aplica a los usuarios de la computadora 21 Bitcoin, Docker virtualizado y Amazon EC2.
+**Nota**: esta sección sólo se aplica a los usuarios de la computadora 21 Bitcoin, Docker virtualizado y Amazon EC2.
 
 Cuando un nuevo dispositivo se conecta a Internet, normalmente actúa como un cliente, es decir, algo que puede iniciar conexiones a dominios como google.com para descargar información. Sin embargo, el software 21 también permite que su máquina actúe como un servidor que vende recursos de pago por máquina para bitcoin. Para ello, debe permitir que otras máquinas puedan enviar paquetes a su máquina para solicitar bienes digitales sin conocer previamente la dirección IP o el nombre de dominio específico de la máquina.
 
@@ -97,7 +97,7 @@ Ejecute el siguiente comando para unirse a la red:
 Su salida se ve así:
 
 > WARNING
-> -------
+> 
 > Note that the 21 Network operates very similarly to a public Wi-Fi
 > access point, and carries with it the same security risks as a public
 > "hotspot" that allows each device to connect to all other devices on the
