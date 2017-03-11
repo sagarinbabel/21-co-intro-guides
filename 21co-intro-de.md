@@ -1,2 +1,2 @@
-**Beginnen Sie hier bitte**
+**Der Anfang**
 -----
