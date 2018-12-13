@@ -1,4 +1,6 @@
-# 21.co Introduction Guide Translation Project
+# Update - this project has been abandoned due to time constraints. 21.co turned into Earn.com which was bought by Coinbase. In 2019 hoping to get more involved in crypto/blockchain efforts.
+
+## 21.co Introduction Guide Translation Project
 
 **Aim** - Translating the [21.co Introductory Guide]((https://21.co/learn/)) to various languages
 
